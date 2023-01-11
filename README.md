@@ -28,5 +28,6 @@ if funds are unavailable raise an error
 a given date. If two (or more) accounts have the same amount of money
 transferred sort them by reverse alphabetical order (for example "b"
 would be smaller than "a") - from smallest to largest
-8. merge_two_accounts: no data such as deposit money should be lost
-9. 
+8. merge_two_accounts: no data such as deposit money should be 
+
+[solution](bank_model.py)
